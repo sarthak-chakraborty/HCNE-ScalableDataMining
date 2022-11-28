@@ -1,3 +1,7 @@
 [submodule "HARP"]
 	path = HARP
 	url = https://github.com/GTmac/HARP.git
+
+[submodule "LouvainNE"]
+        path = LouvainNE
+        url = https://github.com/maxdan94/LouvainNE.git
